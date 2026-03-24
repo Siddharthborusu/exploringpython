@@ -1,4 +1,53 @@
-.venv/
-.env
+# 🔒 Python cache
 __pycache__/
+*.py[cod]
+*$py.class
+
+# 🔧 Virtual environments
+venv/
+.env/
+env/
+ENV/
+
+# 📦 Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# 🧪 Testing / coverage
+.coverage
+htmlcov/
+.pytest_cache/
+
+# 🧠 Jupyter Notebook
+.ipynb_checkpoints/
+
+# 📊 Data files (optional - keep if large/private)
+#data/
+#*.csv
+#*.xlsx
+#*.json
+
+# 🔐 Environment variables
+.env
+*.env
+
+# 🖥️ OS files
 .DS_Store
+Thumbs.db
+
+# 📝 Logs
+*.log
+
+# ⚙️ VS Code settings
+.vscode/
+
+# 🧠 Model files (ML projects)
+*.pkl
+*.joblib
+*.h5
+
+# 🔥 Temporary files
+*.tmp
+*.temp
