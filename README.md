@@ -1,1 +1,1 @@
-this repo is where i practiced and revised some py fundamentals and explored python and the key libraries comprehensively
+this repo is where i practiced and revised py fundamentals and explored python and the key libraries comprehensively and had so much fun doing so
