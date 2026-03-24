@@ -1,5 +1,6 @@
 #learning python
 #ref tutorial: https://www.youtube.com/https://www.youtube.com/watch?v=ygXn5nV5qFc&t=8800s
+# ref documentation = https://python.datalumina.com/practical-python/working-with-files
 """
 this is multi line comment or docstring, it can be used to provide documentation for a module,
 class, method, or function. 
