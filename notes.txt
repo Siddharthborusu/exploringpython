@@ -1,0 +1,5 @@
+important tools and concepts learnt
+
+- venv
+-interactive python
+-ruff for formatting and clean code
